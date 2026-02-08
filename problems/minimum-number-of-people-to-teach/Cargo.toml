@@ -1,0 +1,6 @@
+[package]
+name = "lc_minimum_number_of_people_to_teach"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
