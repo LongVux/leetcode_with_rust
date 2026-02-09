@@ -1,0 +1,6 @@
+[package]
+name = "lc_median_of_two_sorted_arrays"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

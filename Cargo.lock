@@ -7,11 +7,23 @@ name = "lc_add_two_numbers"
 version = "0.1.0"
 
 [[package]]
+name = "lc_design_a_food_rating_system"
+version = "0.1.0"
+
+[[package]]
 name = "lc_divide_an_array_into_subarrays_with_minimum_cost_i"
 version = "0.1.0"
 
 [[package]]
 name = "lc_find_most_frequent_vowel_and_consonant"
+version = "0.1.0"
+
+[[package]]
+name = "lc_longest_substring_without_repeating_characters"
+version = "0.1.0"
+
+[[package]]
+name = "lc_median_of_two_sorted_arrays"
 version = "0.1.0"
 
 [[package]]
