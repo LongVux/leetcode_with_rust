@@ -19,6 +19,10 @@ name = "lc_find_most_frequent_vowel_and_consonant"
 version = "0.1.0"
 
 [[package]]
+name = "lc_longest_palindromic_substring"
+version = "0.1.0"
+
+[[package]]
 name = "lc_longest_substring_without_repeating_characters"
 version = "0.1.0"
 
@@ -35,5 +39,17 @@ name = "lc_minimum_removals_to_balance_array"
 version = "0.1.0"
 
 [[package]]
+name = "lc_reverse_integer"
+version = "0.1.0"
+
+[[package]]
+name = "lc_string_to_integer_atoi"
+version = "0.1.0"
+
+[[package]]
 name = "lc_two_sum"
+version = "0.1.0"
+
+[[package]]
+name = "lc_zigzag_conversion"
 version = "0.1.0"

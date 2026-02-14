@@ -1,0 +1,6 @@
+[package]
+name = "lc_reverse_integer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
